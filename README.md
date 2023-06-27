@@ -8,8 +8,8 @@ For more information on who built Quik-a-nik, scroll down to the bottom of the R
 
 ## Screenshots
 
-![Home (Mobile)](https://github.com/MorriganH/quik-a-nik/blob/readme/docs/Quik-a-nik%20Home%20(Mobile).png?raw=true)
 ![Home (Web)](https://github.com/MorriganH/quik-a-nik/blob/readme/docs/Quik-a-nik%20Home%20(Web).png?raw=true)
+![Home (Mobile)](https://github.com/MorriganH/quik-a-nik/blob/readme/docs/Quik-a-nik%20Home%20(Mobile).png?raw=true)
 ![Products List (Mobile)](https://github.com/MorriganH/quik-a-nik/blob/feature/final-style-tweaks/docs/Quik-a-nik%20Products%20(Mobile).png?raw=true)
 ![Products List (Web)](https://github.com/MorriganH/quik-a-nik/blob/readme/docs/Quik-a-nik%20Products%20(Web).png?raw=true)
 ![Cart (Mobile)](https://github.com/MorriganH/quik-a-nik/blob/readme/docs/Quik-a-nik%20Cart%20(Mobile).png?raw=true)
